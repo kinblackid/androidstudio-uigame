@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">gameanak</string>
+    <string name="text">Cat</string>
+    <string name="cat">Cat</string>
+    <string name="caw">Caw</string>
+    <string name="dog">Dog</string>
+</resources>
